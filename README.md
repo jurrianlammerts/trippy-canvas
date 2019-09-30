@@ -1,1 +1,1 @@
-# trippy-canvas
+# Trippy Canvas
